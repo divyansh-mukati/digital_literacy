@@ -37,11 +37,3 @@ Dos and 5 Don'ts.
 
 Task 5 – Cybercrime Awareness Case Study
 Researched Phishing as a cybercrime type, wrote a 200-word case study, and compiled an 8-point prevention checklist tailored for Indian college students.
-
-🔗 Links
-
-📋 Digital Literacy Quiz (Google Form): (Add your Google Form link here after creating it)
-💼 LinkedIn Profile: (Add your LinkedIn URL here)
-🐙 GitHub Profile: https://github.com/divyanshmukati
-📊 Kaggle Profile: (Add your Kaggle URL here)
-
